@@ -4,7 +4,7 @@
 
 #### Team Name: `Overclocked Ops`    
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### Green Routes - Use geospatial data of various pollutants and allergens to suggest optimal walking, running, or cycling routes that mitigate exposure.
 
 
