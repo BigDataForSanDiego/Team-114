@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Team Number: `114`  
 
-## Available Scripts
+#### Team Name: `Overclocked Ops`    
+  
+#### Your team's hackathon idea in One sentence:
+##### Green Routes - Use geospatial data of various pollutants and allergens to suggest optimal walking, running, or cycling routes that mitigate exposure.
 
-In the project directory, you can run:
 
-### `npm start`
+#### A visual
+![image](https://github.com/user-attachments/assets/0414d2f6-6529-4c17-90c8-131d7ccb8b86)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!--
+#### Theme: Enhancing Healthcareâ€™s Digital Front Door
+#### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
+-->
 
-### `npm test`
+#### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
+- [ ] Access to care
+> How can we make it easier to access care (especially specialists) and provide clear, timely notifications, and reminders along their healthcare journey?
+- [ ] Patient satisfaction
+> How can we make it more convenient for patients to provide real-time feedback about their healthcare experience through a mobile app?
+- [ ] New patient experience
+> As a potential new customer, how can we leverage the mobile app to help new patients better understand what services are available to them?
+- [X] Managing my health
+> It's easy to get overwhelmed by all the tasks patients often have to do to maintain their health, how can we make managing health more enjoyable?
+- [X] Addressing mental health challenges
+> Mental health challenges may be difficult to identify and have a broad impact on health, how can we help clinicians be more in tune with patients mental health needs?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Optional Questions. `TEAMS CAN SELECT ONE ADDITIONAL OPTIONAL QUESTION (insert X in [ ])`
+- [ ] Cultural Competence in Healthcare
+> How can we design a mobile app that helps healthcare providers better understand and respect cultural differences, improving communication and care for diverse patient populations?
+- [ ] Access to Care for Rural and Remote Communities
+> How can we leverage technology to improve healthcare access for rural and remote communities, ensuring timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
+- [ ] Enhancing disease prevention (For Geocomputational Thinker Awards)
+> How can big (geospatial) data analytics and AI be used to improve access to information about the influence of human behavior, cultural practices, and social interactions on the spread of diseases?
+- [X] Addressing environmental health disparities (For Geocomputational Thinker Awards)
+> How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Team Coordinator GitHub Username: kaelananderson
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Team Members Kaelan Anderson: kaelananderson, Dillon Timmer: dillon9999, Bryce Graw: bgrawa
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
