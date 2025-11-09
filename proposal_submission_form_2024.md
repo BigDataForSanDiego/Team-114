@@ -8,7 +8,7 @@
 
 #### Team Members `Rishi Kumar(Xstardrone), Chenhao Zhang(ChenhaoZhang01), Saevin Hong(ProjectNerva)`
 
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### Create an app that helps people with resource management by allowing people to take a picture of their assets, and the app will provide suggestions based on that.
 
 #### A visual
