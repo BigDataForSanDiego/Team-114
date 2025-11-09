@@ -6,13 +6,13 @@
 
 #### Team Coordinator GitHub Username: `dhruvbantval`
 
-#### Team Members `Rishi Kumar(Xstardrone), Chenhao Zhang(ChenhaoZhang01), Saevin Hong(ProjectNerva)`
+#### Team Members `Dhruv Bantval(dhruvbantval), Rishi Kumar(Xstardrone), Chenhao Zhang(ChenhaoZhang01), Saevin Hong(ProjectNerva)`
 
 #### Your team's hackathon idea in One sentence:
 ##### Create an app that helps people with resource management by allowing people to take a picture of their assets, and the app will provide suggestions based on that.
 
 #### A visual
-![bigdatahackathon4sd]("Visual.jpg")
+![bigdatahackathon4sd](Visual.jpg)
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
