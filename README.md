@@ -12,7 +12,7 @@
 ##### Create an app that helps people with resource management by allowing people to take a picture of their assets, and the app will provide suggestions based on that.
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
+![bigdatahackathon4sd]("Visual.jpg")
 
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
