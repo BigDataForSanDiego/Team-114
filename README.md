@@ -1,41 +1,93 @@
-### 2025 BIG DATA HACKATHON PROPOSAL FORM
+# Resourcify – Smart Resource Management with AI
 
-#### Team Number: `114`  
+### Big Data Hackathon 2025  
+**Team 114 – Psyche**
 
-#### Team Name: `Psyche`    
+#### Team Coordinator GitHub Username: dhruvbantval
 
-#### Team Coordinator GitHub Username: `dhruvbantval`
+**Members:** Dhruv Bantval, Rishi Kumar, Chenhao Zhang, Saevin Hong  
 
-#### Team Members `Dhruv Bantval(dhruvbantval), Rishi Kumar(Xstardrone), Chenhao Zhang(ChenhaoZhang01), Saevin Hong(ProjectNerva)`
+**Built With:** React 19 + Vite & Node.js + Express.js
 
-#### Your team's hackathon idea in One sentence:
-##### Create an app that helps people with resource management by allowing people to take a picture of their assets, and the app will provide suggestions based on that.
+---
 
-#### A visual
-![bigdatahackathon4sd](Visual.jpg)
+## What Is Resourcify?
 
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+Resourcify is a simple, supportive web app designed to help individuals and families keep track of their essential supplies.  
+By taking a photo of the items they have, users receive clear guidance on what those items are, how they fit into daily needs, and what they might consider adding to stay prepared and secure.
 
+The goal is to offer clarity and confidence to people who may be facing housing instability, major financial strain, or unexpected life changes.
 
-#### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
-- [X] Access to Shelter and Resources
-> - Solutions to improve on-demand access and availability of shelters, food banks, medical aid, and social services for homeless individuals.
-> - Question: How can we develop technological solutions that provide real-time, on-demand information updates on available shelters, food banks, hygiene stations, medical clinics, and social services for people experiencing homelessness?
-- [ ] Health and Mental Wellness Support
-> - Tools to provide remote mental health support, connect to mobile healthcare providers, or manage chronic conditions common in homeless populations using mobile devices.
-> - Question: How can we create tools or mobile applications that deliver remote mental health care, help manage chronic health conditions, or connect unhoused individuals with trusted health professionals?
-- [ ] Housing and Employment Pathways
-> - Web platforms that connect homeless individuals to affordable housing opportunities, job training programs, or employment resources.
-> - Question: What digital web platforms or systems can help individuals experiencing homelessness navigate the path toward stable housing and employment, including skills training, job placement, and housing referrals? 
-- [ ] Safety and Community Engagement
-> - Solutions to increase personal safety, prevent violence, and foster community support and empathy networks for homeless people.
-> - Question: How might we design technological solutions that improve safety for unhoused individuals, reduce violence, and build empathy and community support through storytelling, social engagement, or civic partnerships?
-- [X] Data-Driven Policy and User-Centered Resource Planning
-> - Use of geospatial and demographic data to better understand homeless population trends, optimize resource allocation, and support policy advocacy.
-> - Question: How can we use geospatial data, census data, and AI to map trends in homelessness, identify service gaps, and support equitable decision making and public advocacy
-- [ ] Other Possible Topics
-> - Improving digital equity and resource accessibility
-> - Helping youth homelessness and at-risk populations
-> - Providing mobile health clinics and telehealth expansion kits
-> - Increasing climate resilience for unhoused communities
-> - Others
+---
+
+## Visual
+
+![bigdatahackathon4sd](./src/resource.jpg)
+
+---
+
+# Resourcify - AI Resource Manager
+
+![Resourcify Banner](./public/icons/resourcifyGH.jpg)
+
+---
+
+## What the App Does
+
+Resourcify focuses on making resource management easy and accessible:
+
+- Photo-based item recognition for quick inventory.
+- Automatic sorting into categories such as food, hygiene, safety, tools, and shelter-related items.  
+- Clear suggestions to help users understand what they have and what may be useful to add.  
+- Optional budget planning that recommends affordable, prioritized items.  
+- A simple community map highlighting nearby helpful locations.  
+- Works on any device and can be added to a home screen for quick access.
+
+---
+
+## Why This Helps
+
+Many people experiencing sudden changes in their living situation may not know:
+
+- Exactly what supplies they currently have  
+- Which items are most important to stay safe and prepared  
+- How to plan ahead on a limited budget  
+- Where nearby supportive resources are located  
+
+Resourcify removes uncertainty by turning a single photo into clear, organized, and practical guidance.
+
+---
+
+## How People Use It
+
+- Tracking personal essentials  
+- Understanding what items may be important to add  
+- Building basic safety or comfort kits  
+- Planning purchases with a limited budget  
+- Finding nearby helpful locations or donation centers  
+
+---
+
+## Basic Technology
+
+- **React 18 + Vite** for the user interface  
+- **Node.js + Express.js** for the backend  
+- **Multur + Morgan** for the middleware
+- **AI Vision + Google Maps API** for photo & location understanding  
+
+---
+
+## Future Possibilities
+
+- Voice-based item input  
+- Multi-language support  
+- Optional reminders for resupplying  
+- Shared resource lists for families or small groups  
+- More detailed community resource mapping  
+
+---
+
+## Our Goal
+
+Resourcify aims to be a simple, supportive guide that helps users stay organized, informed, and prepared— especially during challenging or uncertain times.  
+It is built to be simple enough for anyone to use while offering meaningful, practical assistance.
